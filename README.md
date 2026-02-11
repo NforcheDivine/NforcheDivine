@@ -15,30 +15,29 @@ I'm a data professional with a strong academic foundation in statistical data an
 
 ## 📊 Featured Projects
 
-### 🚑 Clinical Data Quality Pipeline (MSc Thesis)
+### 🎯 [Clinical Data Quality Pipeline (MSc Thesis)](https://github.com/NforcheDivine)
 Designed and implemented a semi-automated ETL pipeline to monitor data quality in a longitudinal sarcopenia study (250+ participants). Focused on metadata tracking, forensic validation, and reproducibility across survey and lab data streams.
 
-### 🏦 Customer Churn Prediction (Lloyds Bank Dataset)
-End-to-end ML project predicting customer churn using logistic regression and feature engineering. Achieved baseline AUC-ROC of 0.60 and implemented data preprocessing pipelines using scikit-learn.
+### 💡 [Customer Churn Prediction (Lloyds Bank Dataset)](https://github.com/NforcheDivine/Customer-Churn-Prediction-End-to-End-Machine-Learning-Project)
+End-to-end ML project using logistic regression and scikit-learn pipelines to predict customer churn. Includes data preprocessing, model evaluation, and improvement strategies.
 
-### 📈 YouTube Analytics ETL API
-Built a lightweight Python API for ingesting, transforming, and storing YouTube channel analytics. Emphasized modular pipeline design and REST API integration.
+### 📈 [YouTube Analytics ETL API](https://github.com/NforcheDivine/youtube-analytics-etl-api)
+Lightweight REST API and ETL pipeline built in Python to ingest and analyze YouTube channel analytics data.
 
 ---
 
-## 📈 Certifications & Learning Goals
+## 🚀 What I'm Learning Now
 
-- 📘 PL-300: Power BI Data Analyst (in progress)  
-- 📘 DP-203: Azure Data Engineer Associate (planned)  
-- 🧪 Microsoft Fabric, Real-Time Analytics, and Lakehouse Design  
-- 🔁 GitHub portfolio expansion & cloud-based project deployment
+- Mastering Microsoft Fabric orchestration
+- Deploying ETL pipelines to Azure Synapse & Power BI
+- Learning DataOps & cloud CI/CD for production workflows
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nforchedivineako/)
-- 💻 [GitHub Portfolio](https://github.com/NforcheDivine)
+- 🔗 [LinkedIn](https://linkedin.com/in/nforchedivineako)
+- 💻 [GitHub](https://github.com/NforcheDivine)
 - 📧 Email: nforchedivine@gmail.com
 
 ---
