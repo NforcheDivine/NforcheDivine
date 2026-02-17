@@ -15,9 +15,9 @@ I'm a data professional with a strong academic foundation in statistical data an
 
 ## 📊 Featured Projects
 
-### 🏭 Tennessee Eastman Process Fault Diagnosis (Industrial ML)(https://[github.com/NforcheDivine/Customer-Churn-Prediction-End-to-End-Machine-Learning-Project](https://github.com/NforcheDivine/TEP-Fault-Diagnosis-ML))
-End-to-end industrial machine learning pipeline for multi-class fault diagnosis using time-series feature engineering, leakage-safe validation, and Random Forest classification. Improved Macro F1 from **0.74 → 0.95** through temporal engineering and robust evaluation.
+### 🏭 [Tennessee Eastman Process Fault Diagnosis (Industrial ML)](https://github.com/NforcheDivine/TEP-Fault-Diagnosis-ML)
 
+End-to-end industrial fault diagnosis pipeline using time-series feature engineering, leakage-safe validation, and Random Forest classification. Improved Macro F1 from 0.74 → 0.95.
 
 ### 🎯 [Clinical Data Quality Pipeline (MSc Thesis)]
 Designed and implemented a semi-automated ETL pipeline to monitor data quality in a longitudinal sarcopenia study (250+ participants). Focused on metadata tracking, forensic validation, and reproducibility across survey and lab data streams.
