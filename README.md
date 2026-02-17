@@ -15,7 +15,11 @@ I'm a data professional with a strong academic foundation in statistical data an
 
 ## 📊 Featured Projects
 
-### 🎯 [Clinical Data Quality Pipeline (MSc Thesis)](https://github.com/NforcheDivine)
+### 🏭 Tennessee Eastman Process Fault Diagnosis (Industrial ML)  
+End-to-end industrial machine learning pipeline for multi-class fault diagnosis using time-series feature engineering, leakage-safe validation, and Random Forest classification. Improved Macro F1 from **0.74 → 0.95** through temporal engineering and robust evaluation.
+
+
+### 🎯 [Clinical Data Quality Pipeline (MSc Thesis)]
 Designed and implemented a semi-automated ETL pipeline to monitor data quality in a longitudinal sarcopenia study (250+ participants). Focused on metadata tracking, forensic validation, and reproducibility across survey and lab data streams.
 
 ### 💡 [Customer Churn Prediction (Lloyds Bank Dataset)](https://github.com/NforcheDivine/Customer-Churn-Prediction-End-to-End-Machine-Learning-Project)
