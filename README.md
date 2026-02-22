@@ -15,7 +15,7 @@ I'm a data professional with a strong academic foundation in statistical data an
 
 ## 📊 Featured Projects
 
-### 🏭 [🎛 Industrial Sensor Medallion Lakehouse (Microsoft Fabric)](https://(https://github.com/NforcheDivine/Industrial-Sensor-Medallion-Lakehouse)
+### 🏭 [🎛 Industrial Sensor Medallion Lakehouse (Microsoft Fabric)](https://github.com/NforcheDivine/Industrial-Sensor-Medallion-Lakehouse)
 
 ### 🏭 [Tennessee Eastman Process Fault Diagnosis (Industrial ML)](https://github.com/NforcheDivine/TEP-Fault-Diagnosis-ML)
 
