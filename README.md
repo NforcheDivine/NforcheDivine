@@ -23,8 +23,8 @@ End-to-end Medallion Architecture (Bronze → Silver → Gold) implementation fo
 
 End-to-end industrial fault diagnosis pipeline using time-series feature engineering, leakage-safe validation, and Random Forest classification. Improved Macro F1 from 0.74 → 0.95.
 
-### 🎯 [Clinical Data Quality Pipeline (MSc Thesis)]
-Designed and implemented a semi-automated ETL pipeline to monitor data quality in a longitudinal sarcopenia study (250+ participants). Focused on metadata tracking, forensic validation, and reproducibility across survey and lab data streams.
+### 🎯 [Clinical Data Quality Pipeline (MSc Thesis) - Ongoing]
+Designing and implementing a semi-automated ETL pipeline to monitor data quality in a longitudinal sarcopenia study (250+ participants). Focused on metadata tracking, forensic validation, and reproducibility across survey and lab data streams.
 
 ### 💡 [Customer Churn Prediction (Lloyds Bank Dataset)](https://github.com/NforcheDivine/Customer-Churn-Prediction-End-to-End-Machine-Learning-Project)
 End-to-end ML project using logistic regression and scikit-learn pipelines to predict customer churn. Includes data preprocessing, model evaluation, and improvement strategies.
